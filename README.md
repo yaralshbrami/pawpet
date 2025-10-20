@@ -28,6 +28,9 @@ HTML | CSS | PHP | MySQL | XAMPP
 
 ## Team
 Yara Alshbrami
-Rafeef Abahussain  
-Ranim Albogami  
+
+Rafeef Abahussain
+
+Ranim Albogami
+
 Shada Alamri
